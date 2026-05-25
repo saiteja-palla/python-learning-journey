@@ -1,2 +1,18 @@
-# python-learning-journey
-My Python learning journey from scratch to Azure &amp; ML
+# 🐍 Python Learning Journey
+
+My Python learning journey following the **100 Days of Code — The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+
+## 🎯 Goal
+Transition from Documentum Tech Lead → Azure & AI/ML Engineer in 4 months.
+
+## 🗺️ Roadmap
+Python → Git → Docker → CI/CD → Azure Cloud → ML/AI
+
+## 📅 Progress
+Day 1 - Python Basics — Variables, Comments, Errors | **Band Name Generator**
+Day 2 - Data Types, Type Casting, String Formatting | **Tip Calculator**
+
+## 🛠️ Tools Used
+- Python 3.13
+- VS Code
+- Git & GitHub
