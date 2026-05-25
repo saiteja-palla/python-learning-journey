@@ -9,8 +9,8 @@ Transition from Documentum Tech Lead → Azure & AI/ML Engineer in 4 months.
 Python → Git → Docker → CI/CD → Azure Cloud → ML/AI
 
 ## 📅 Progress
-Day 1 - Python Basics — Variables, Comments, Errors | **Band Name Generator**
-Day 2 - Data Types, Type Casting, String Formatting | **Tip Calculator**
+Day 1(./day1/) - Python Basics — Variables, Comments, Errors | **Band Name Generator**
+Day 2(./day2/) - Data Types, Type Casting, String Formatting | **Tip Calculator**
 
 ## 🛠️ Tools Used
 - Python 3.13
