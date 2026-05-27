@@ -19,7 +19,8 @@ Transition from Documentum Tech Lead → Azure & AI/ML Engineer in 4 months.
 | [Day 3](./day3/) | Control Flow, Logical & Comparison Operators | Rollercoaster Ticket Pricing |
 | [Day 4](./day4/) | Randomization, Lists, Nested Lists | Coin Flip Simulator & Rock Paper Scissors |
 | [Day 5](./day5/) | For Loops, range(), sum() | FizzBuzz & Password Generator |
-| [Day 6](./day6/) | Functions, Indentation, While Loops | Reeborg's World — Hurdle 1,2,3,4 |
+| [Day 6](./day6/) | Functions, Indentation, While Loops | Reeborg's World — Hurdle 1, 2, 3, 4 |
+| [Day 7](./day7/) | String Manipulation, in Operator | Hangman Game |
 
 ---
 
