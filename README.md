@@ -21,6 +21,7 @@ Transition from Documentum Tech Lead → Azure & AI/ML Engineer in 4 months.
 | [Day 5](./day5/) | For Loops, range(), sum() | FizzBuzz & Password Generator |
 | [Day 6](./day6/) | Functions, Indentation, While Loops | Reeborg's World — Hurdle 1, 2, 3, 4 |
 | [Day 7](./day7/) | String Manipulation, in Operator | Hangman Game |
+| [Day 8](./day8/) | Functions with Inputs, enumerate(), % Modulo | Love Calculator, Life in Weeks & Caesar Cipher |
 
 ---
 
