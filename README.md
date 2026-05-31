@@ -24,6 +24,7 @@ Transition from Documentum Tech Lead → Azure & AI/ML Engineer in 4 months.
 | [Day 8](./day8/) | Functions with Inputs, enumerate(), % Modulo | Love Calculator, Life in Weeks & Caesar Cipher |
 | [Day 9](./day9/) | Dictionaries, Nested Collections, max() | Secret Auction |
 | [Day 10](./day10/) | Return, Docstrings, Nested Functions, Functions as Variables | Leap Year & Calculator |
+| [Day 11](./day11/) | Blackjack Capstone — Refactoring, DRY, list.remove(), list.pop() | Blackjack Game |
 
 ---
 
