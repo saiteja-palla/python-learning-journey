@@ -16,7 +16,7 @@ Transition from Documentum Tech Lead → Azure & AI/ML Engineer in 4 months.
 |---|---|---|
 | [Day 1](./day1/) | Python Basics — Variables, Comments, Errors | Band Name Generator |
 | [Day 2](./day2/) | Data Types, Type Casting, String Formatting | Tip Calculator |
-| [Day 3](./day3/) | Control Flow, Logical & Comparison Operators | Rollercoaster Ticket Pricing |
+| [Day 3](./day3/) | Control Flow, Logical & Comparison Operators | Rollercoaster Ticket Pricing & Even or Odd Checker |
 | [Day 4](./day4/) | Randomization, Lists, Nested Lists | Coin Flip Simulator & Rock Paper Scissors |
 | [Day 5](./day5/) | For Loops, range(), sum() | FizzBuzz & Password Generator |
 | [Day 6](./day6/) | Functions, Indentation, While Loops | Reeborg's World — Hurdle 1, 2, 3, 4 |
@@ -25,6 +25,7 @@ Transition from Documentum Tech Lead → Azure & AI/ML Engineer in 4 months.
 | [Day 9](./day9/) | Dictionaries, Nested Collections, max() | Secret Auction |
 | [Day 10](./day10/) | Return, Docstrings, Nested Functions, Functions as Variables | Leap Year & Calculator |
 | [Day 11](./day11/) | Blackjack Capstone — Refactoring, DRY, list.remove(), list.pop() | Blackjack Game |
+| [Day 12](./day12/) | Scope, Namespaces, Global Keyword, Constants | Prime Number Checker & Number Guessing Game |
 
 ---
 
