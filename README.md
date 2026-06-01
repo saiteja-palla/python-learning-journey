@@ -26,6 +26,8 @@ Transition from Documentum Tech Lead → Azure & AI/ML Engineer in 4 months.
 | [Day 10](./day10/) | Return, Docstrings, Nested Functions, Functions as Variables | Leap Year & Calculator |
 | [Day 11](./day11/) | Blackjack Capstone — Refactoring, DRY, list.remove(), list.pop() | Blackjack Game |
 | [Day 12](./day12/) | Scope, Namespaces, Global Keyword, Constants | Prime Number Checker & Number Guessing Game |
+| [Day 13](./day13/) | Debugging, Docstring Structure, Conditional Operators | Debugging Exercises |
+| [Day 14](./day14/) | Higher Order Functions, Multi-file Projects, Error Handling | Higher Lower Game |
 
 ---
 
