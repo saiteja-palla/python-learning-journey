@@ -28,6 +28,7 @@ Transition from Documentum Tech Lead → Azure & AI/ML Engineer in 4 months.
 | [Day 12](./day12/) | Scope, Namespaces, Global Keyword, Constants | Prime Number Checker & Number Guessing Game |
 | [Day 13](./day13/) | Debugging, Docstring Structure, Conditional Operators | Debugging Exercises |
 | [Day 14](./day14/) | Higher Order Functions, Multi-file Projects, Error Handling | Higher Lower Game |
+| [Day 15](./day15/) | Local Dev Setup, pip, `if __name__ == "__main__"`, Constants | Coffee Machine |
 
 ---
 
